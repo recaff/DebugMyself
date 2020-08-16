@@ -1,1 +1,4 @@
--  SINa,感觉还是不太会用github
+debugmyself
+- 记录
+- 思考
+- 行动
